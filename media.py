@@ -3,7 +3,7 @@ class Movie(object):
 
     Attributes:
         title: A string that contains the movie title.
-        storyline: A string that contains a short synopsis of teh movie.
+        storyline: A string that contains a short synopsis of the movie.
         poster_image_url: A string that contains the url of a poster
                           image of the movie.
         trailer_youtube_url: A string that contains the url of a Youtube
